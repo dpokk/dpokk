@@ -13,10 +13,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin-right:20px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right:20px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="margin-right:20px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40" style="margin-right:20px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="margin-right:20px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin-right:20px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right:20px;"/>
+<img src="https://cdn-icons-png.flaticon.com/512/906/906361.png" alt="WebSocket" width="40" height="40" style="margin-right:20px;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/WebRTC_Logo.svg" alt="WebRTC" width="40" height="40" style="margin-right:20px;"/>
 
 </div>
 
@@ -34,12 +34,7 @@
 
 ### 🔥 GitHub Stats
 
-![Deepak Reddy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dpokk&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dpokk&layout=compact&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dpokk&layout=compact&theme=default)
 
 ---
-
-### 🎯 Visitor Badge
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dpokk)
