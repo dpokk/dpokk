@@ -2,6 +2,7 @@
 👀 I’m passionate about building full-stack web applications with modern technologies like Next.js and the MERN stack.  
 💬 I’m looking to collaborate on full-stack development and GenAI-driven projects.  
 ⚡ I love crafting intuitive user experiences backed by powerful, reliable backend systems to solve real-world challenges!
+
 📫 Connect with me:
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/dpokk)
