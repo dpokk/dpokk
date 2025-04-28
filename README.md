@@ -2,8 +2,8 @@
 👀 I’m passionate about building scalable full-stack web applications using modern technologies like Next JS.  
 💬 I’m looking to collaborate on full-stack or genAI projects.  
 📫 Connect with me
-- [GitHub](https://github.com/yourusername)
-- [LinkedIn](https://https://www.linkedin.com/in/deepak-reddy-455r/)
+- [GitHub](https://github.com/dpokk)
+- [LinkedIn](https://www.linkedin.com/in/deepak-reddy-455r/)
 
 ⚡ I enjoy combining intuitive user experiences with robust backend systems to solve real-world problems!
 
