@@ -2,6 +2,7 @@
 👀 I’m passionate about building scalable full-stack web applications using modern technologies like Next JS and MERN Stack.  
 💬 I’m looking to collaborate on full-stack or genAI projects.  
 ⚡ I enjoy combining intuitive user experiences with robust backend systems to solve real-world problems!
+
 📫 Connect with me
 - [GitHub](https://github.com/dpokk)
 - [LinkedIn](https://www.linkedin.com/in/deepak-reddy-455r/)
