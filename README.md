@@ -1,11 +1,11 @@
-👋 Hi, I’m **@dpokk**  
-👀 I’m passionate about building scalable full-stack web applications using modern technologies like Next JS.  
+👋 Hi, I’m **Deepak!**  
+👀 I’m passionate about building scalable full-stack web applications using modern technologies like Next JS and MERN Stack.  
 💬 I’m looking to collaborate on full-stack or genAI projects.  
+⚡ I enjoy combining intuitive user experiences with robust backend systems to solve real-world problems!
 📫 Connect with me
 - [GitHub](https://github.com/dpokk)
 - [LinkedIn](https://www.linkedin.com/in/deepak-reddy-455r/)
 
-⚡ I enjoy combining intuitive user experiences with robust backend systems to solve real-world problems!
 
 ### 🛠️ Tech Stack
 
@@ -38,13 +38,5 @@
 ### 🔥 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dpokk&layout=compact&theme=dark)
-![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dpokk&show_icons=true&theme=radical&hide_title=true&count_private=true&hide=prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpokk&layout=compact&theme=radical)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-FFEB3B?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-
 
 ---
