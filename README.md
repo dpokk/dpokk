@@ -1,7 +1,10 @@
 👋 Hi, I’m **@dpokk**  
 👀 I’m passionate about building scalable full-stack web applications using modern technologies like Next JS.  
 💬 I’m looking to collaborate on full-stack or genAI projects.  
-📫 How to reach me: Connect with me here on GitHub!    
+📫 Connect with me
+- [GitHub](https://github.com/yourusername)
+- [LinkedIn](https://https://www.linkedin.com/in/deepak-reddy-455r/)
+
 ⚡ I enjoy combining intuitive user experiences with robust backend systems to solve real-world problems!
 
 ### 🛠️ Tech Stack
@@ -16,7 +19,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="margin-right:20px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right:20px;"/>
 <img src="https://cdn-icons-png.flaticon.com/512/906/906361.png" alt="WebSocket" width="40" height="40" style="margin-right:20px;"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/WebRTC_Logo.svg" alt="WebRTC" width="40" height="40" style="margin-right:20px;"/>
+
 
 </div>
 
