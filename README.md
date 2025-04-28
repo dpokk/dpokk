@@ -1,12 +1,11 @@
 👋 Hi, I’m **Deepak!**  
-👀 I’m passionate about building scalable full-stack web applications using modern technologies like Next JS and MERN Stack.  
-💬 I’m looking to collaborate on full-stack or genAI projects.  
-⚡ I enjoy combining intuitive user experiences with robust backend systems to solve real-world problems!
+👀 I’m passionate about building full-stack web applications with modern technologies like Next.js and the MERN stack.  
+💬 I’m looking to collaborate on full-stack development and GenAI-driven projects.  
+⚡ I love crafting intuitive user experiences backed by powerful, reliable backend systems to solve real-world challenges!
+📫 Connect with me:
 
-📫 Connect with me
-- [GitHub](https://github.com/dpokk)
-- [LinkedIn](https://www.linkedin.com/in/deepak-reddy-455r/)
-
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/dpokk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-reddy-455r/)
 
 ### 🛠️ Tech Stack
 
@@ -33,10 +32,10 @@
 ### 🚀 Featured Projects
 
 [![Orivion](https://img.shields.io/badge/Project-Orivion-blue?style=for-the-badge&logo=typescript)](https://github.com/dpokk/orivion)  
-> A TypeScript-based application that highlights my expertise in strongly-typed, scalable development.
+> Orivion - A Remote Technical Interview platform with Live video calls, an interactive Code Editor, and full interview management tools for candidates, interviewers, and admins.
 
 [![RealTime ChatApp](https://img.shields.io/badge/Project-RealTime%20ChatApp-green?style=for-the-badge&logo=socketdotio&logoColor=white)](https://github.com/dpokk/realtime-chatapp)  
-> A real-time chat application enabling instant communication between users using WebSocket technology.
+> A Real-time Chat application enabling instant communication between users using WebSocket technology.
 
 ---
 
