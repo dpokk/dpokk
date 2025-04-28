@@ -38,6 +38,13 @@
 ### 🔥 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dpokk&layout=compact&theme=dark)
+![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dpokk&show_icons=true&theme=radical&hide_title=true&count_private=true&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpokk&layout=compact&theme=radical)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-FFEB3B?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
 
 
 ---
