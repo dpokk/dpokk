@@ -1,7 +1,6 @@
 👋 Hi, I’m **Deepak!**  
 👀 I’m passionate about building full-stack web applications with modern technologies like Next.js and the MERN stack.  
-💬 I’m looking to collaborate on full-stack development and GenAI-driven projects.  
-⚡ I love crafting intuitive user experiences backed by powerful, reliable backend systems to solve real-world challenges!
+💬 Looking to collaborate on full-stack development and GenAI-driven projects.  
 
 📫 Connect with me:
 
