@@ -32,7 +32,7 @@
 ### 🚀 Featured Projects
 
 [![RealTime ChatApp](https://img.shields.io/badge/Project-RealTime%20ChatApp-green?style=for-the-badge&logo=socketdotio&logoColor=white)](https://github.com/dpokk/realtime-chatapp) 
-[![Live](https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://realtime-chatapp.vercel.app) 
+[![Live](https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://realtime-chatapp-52mz.onrender.com) 
 > A Real-time Chat application enabling instant communication between users using WebSocket technology.
 
 [![Orivion](https://img.shields.io/badge/Project-Orivion-blue?style=for-the-badge&logo=typescript)](https://github.com/dpokk/orivion)  
