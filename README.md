@@ -31,11 +31,12 @@
 
 ### 🚀 Featured Projects
 
+[![RealTime ChatApp](https://img.shields.io/badge/Project-RealTime%20ChatApp-green?style=for-the-badge&logo=socketdotio&logoColor=white)](https://github.com/dpokk/realtime-chatapp) 
+[![Live](https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://realtime-chatapp.vercel.app) 
+> A Real-time Chat application enabling instant communication between users using WebSocket technology.
+
 [![Orivion](https://img.shields.io/badge/Project-Orivion-blue?style=for-the-badge&logo=typescript)](https://github.com/dpokk/orivion)  
 > Orivion - A Remote Technical Interview platform with Live video calls, an interactive Code Editor, and full interview management tools for candidates, interviewers, and admins.
-
-[![RealTime ChatApp](https://img.shields.io/badge/Project-RealTime%20ChatApp-green?style=for-the-badge&logo=socketdotio&logoColor=white)](https://github.com/dpokk/realtime-chatapp)  
-> A Real-time Chat application enabling instant communication between users using WebSocket technology.
 
 ---
 
