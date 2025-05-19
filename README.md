@@ -38,7 +38,7 @@
 [![Orivion](https://img.shields.io/badge/Project-Orivion-blue?style=for-the-badge&logo=typescript)](https://github.com/dpokk/orivion)  
 > Orivion - A Remote Technical Interview platform with Live video calls, an interactive Code Editor, and full interview management tools for candidates, interviewers, and admins.
 
-[![Order Processing System](https://img.shields.io/badge/Project-Order-Processing-System-orange?style=for-the-badge&logo=javascript)](https://github.com/dpokk/order-processing-system) 
+[![Order Processing System](https://img.shields.io/badge/Project-Order%20Processing%20System-orange?style=for-the-badge&logo=javascript)](https://github.com/dpokk/order-processing-system) 
 > A full-stack web application for managing orders, products, and customers. This system provides a modern and efficient way to handle order processing workflows.
 ---
 
