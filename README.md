@@ -31,13 +31,13 @@
 
 ### 🚀 Featured Projects
 
-[![Orivion](https://img.shields.io/badge/Project-Orivion-blue?style=for-the-badge&logo=typescript)](https://github.com/dpokk/orivion) 
+[![Remote Interview Platform](https://img.shields.io/badge/Project-Orivion-blue?style=for-the-badge&logo=typescript)](https://github.com/dpokk/orivion) 
 [![Live](https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://orivion.vercel.app/) 
-> Orivion - A Remote Technical Interview platform with Live video calls, an interactive Code Editor, and full interview management tools for candidates, interviewers, and admins.
+> ORIVION - A Remote Technical Interview platform with Live video calls, an interactive Code Editor, and full interview management tools for candidates, interviewers, and admins.
 
 [![RealTime ChatApp](https://img.shields.io/badge/Project-RealTime%20ChatApp-green?style=for-the-badge&logo=socketdotio&logoColor=white)](https://github.com/dpokk/realtime-chatapp) 
 [![Live](https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://zocket-xr6r.onrender.com) 
-> A Real-time Chat application enabling instant communication between users using WebSocket technology.
+> ZOCKET - A Real-time Chat application enabling instant communication between users using WebSocket technology.
 
 [![Order Processing System](https://img.shields.io/badge/Project-Order%20Processing%20System-orange?style=for-the-badge&logo=javascript)](https://github.com/dpokk/order-processing-system) 
 > A full-stack web application for managing orders, products, and customers. This system provides a modern and efficient way to handle order processing workflows.
