@@ -31,7 +31,7 @@
 
 ### 🚀 Featured Projects
 
-[![Remote Interview Platform](https://img.shields.io/badge/Project-Orivion-blue?style=for-the-badge&logo=typescript)](https://github.com/dpokk/orivion) 
+[![Remote Interview Platform](https://img.shields.io/badge/Project-Remote%20Interview%20Platform-blue?style=for-the-badge&logo=typescript)](https://github.com/dpokk/orivion) 
 [![Live](https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://orivion.vercel.app/) 
 > ORIVION - A Remote Technical Interview platform with Live video calls, an interactive Code Editor, and full interview management tools for candidates, interviewers, and admins.
 
