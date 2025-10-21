@@ -45,10 +45,6 @@
 [![Live](https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://zocket-xr6r.onrender.com)  
 > **ZOCKET** — A Real-time chat application enabling instant communication between users using WebSocket technology.
 
-[![RawCrypto Wallet Generator](https://img.shields.io/badge/Project-Hierarchical%20Deterministic%20Wallet%20Generator-orange?style=for-the-badge&logo=bitcoin&logoColor=white)](https://github.com/dpokk/rawHD-wallet-generator)
-[![Live](https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://hd-wallet-generator.vercel.app/)  
-> **Hierarchical Deterministic Wallet Generator** — Generate and explore hierarchical deterministic (HD) wallets supporting multiple derivation paths with a minimal and intuitive design.
-
 ---
 
 ### 🔥 GitHub Stats
