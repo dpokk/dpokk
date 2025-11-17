@@ -1,6 +1,4 @@
 👋 Hi, I’m **Deepak!**  
-👀 I build full-stack web applications with modern technologies like Next.js and the MERN stack.  
-💬 Looking to collaborate on Solana Web3 and GenAI-driven projects.  
 
 📫 Connect with me:
 
@@ -8,45 +6,65 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-reddy-455r/)
 
 ---
-
 ### 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="margin-right:20px;"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="40" height="40" style="margin-right:20px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin-right:20px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right:20px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="margin-right:20px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right:20px;"/>
-<img src="https://cdn-icons-png.flaticon.com/512/906/906361.png" alt="WebSocket" width="40" height="40" style="margin-right:20px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="margin-right:20px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" style="margin-right:20px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" style="margin-right:20px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="margin-right:20px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" alt="Socket.IO" width="40" height="40" style="margin-right:20px;"/>
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40" height="40" style="margin-right:10px;"/>
+<!-- Existing icons -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" style="margin-right:18px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" style="margin-right:18px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" style="margin-right:18px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="margin-right:18px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" style="margin-right:18px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="margin-right:18px;"/>
+<img src="https://cdn-icons-png.flaticon.com/512/906/906361.png" width="40" height="40" style="margin-right:18px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" style="margin-right:18px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="margin-right:18px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40" height="40" style="margin-right:18px;"/>
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" height="40" style="margin-right:18px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" style="margin-right:18px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" style="margin-right:18px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40" style="margin-right:18px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" style="margin-right:18px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" style="margin-right:18px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40" style="margin-right:18px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" style="margin-right:18px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="margin-right:18px;"/>
 
 </div>
+
+
 
 ---
 
 ### 🚀 Featured Projects
 
-[![Remote Interview Platform](https://img.shields.io/badge/Project-Remote%20Interview%20Platform-blue?style=for-the-badge&logo=typescript)](https://github.com/dpokk/orivion) 
+### Patient Management System  
+[![Source Code](https://img.shields.io/badge/Source%20Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dpokk/patient-management-system)  
+> A production-grade, cloud-native microservices architecture project built using distributed systems and microservice design patterns to handle patient data, authentication, billing, and analytics operations.
+
+
+### Bitly Clone – URL Shortener  
+[![Source Code](https://img.shields.io/badge/Source%20Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dpokk/url-shortener)  
+> Full-stack optimised link-shortening platform built using React & Spring Boot with real-time click analytics data displayed on a centralized dashboard.
+
+
+### Remote Interview Platform  
+[![Source Code](https://img.shields.io/badge/Source%20Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dpokk/orivion)  
 [![Live](https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://orivion.vercel.app/)  
-> **ORIVION** — A Remote Technical Interview platform with live video calls, an interactive code editor, and complete interview management tools for candidates, interviewers, and admins.
+> A remote technical interview platform with live video calls, an interactive code editor, and complete management tools for candidates, interviewers, and admins.
 
-[![Crypto Wallet Generator](https://img.shields.io/badge/Project-Crypto%20Wallet%20Generator-purple?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/dpokk/web-wallet-generator)
-[![Live](https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://web-wallet-generator.vercel.app/)  
-> ** Crypto Wallet Generator** — Generate multiple Ethereum and Solana wallet addresses from a BIP-39 mnemonic or create new ones on the fly. Uses ed25519 for SOL, secp256k1 curve and the ECDSA signature scheme for ETH.
 
-[![RealTime ChatApp](https://img.shields.io/badge/Project-RealTime%20ChatApp-green?style=for-the-badge&logo=socketdotio&logoColor=white)](https://github.com/dpokk/realtime-chatapp) 
+### Realtime Messaging Chat Application  
+[![Source Code](https://img.shields.io/badge/Source%20Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dpokk/realtime-chatapp)  
 [![Live](https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://zocket-xr6r.onrender.com)  
-> **ZOCKET** — A Real-time chat application enabling instant communication between users using WebSocket technology.
+> A real-time chat application enabling instant communication between users using WebSocket technology.
 
 ---
 
 ### 🔥 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dpokk&layout=compact&theme=dark)
+
+---
+
