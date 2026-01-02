@@ -1,4 +1,4 @@
-👋 Hi, I’m **Deepak!**  
+Hi, I’m **Deepak!**  
 
 📫 Connect with me:
 
