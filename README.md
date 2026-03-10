@@ -39,25 +39,4 @@ Hi, I’m **Deepak!**
 
 ### 🚀 Featured Projects
 
-### Patient Management System  
-[![Source Code](https://img.shields.io/badge/Source%20Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dpokk/patient-management-system)  
-> A production-grade, cloud-native microservices architecture project built using distributed systems and microservice design patterns to handle patient data, authentication, billing, and analytics operations.
-
-
-### Bitly Clone – URL Shortener  
-[![Source Code](https://img.shields.io/badge/Source%20Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dpokk/url-shortener)  
-> Full-stack optimised link-shortening platform built using React & Spring Boot with real-time click analytics data displayed on a centralized dashboard.
-
-
-### Remote Interview Platform  
-[![Source Code](https://img.shields.io/badge/Source%20Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dpokk/orivion)  
-[![Live](https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://orivion.vercel.app/)  
-> A remote technical interview platform with live video calls, an interactive code editor, and complete management tools for candidates, interviewers, and admins.
-
-
-### Realtime Messaging Chat Application  
-[![Source Code](https://img.shields.io/badge/Source%20Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dpokk/realtime-chatapp)  
-[![Live](https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://zocket-xr6r.onrender.com)  
-> A real-time chat application enabling instant communication between users using WebSocket technology.
-
 ---
